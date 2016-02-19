@@ -18,7 +18,7 @@
 		padding-top: 40px;
 	}
 	</style>
-<body>
+<body data-spy="scroll" data-target="#my-navbar">
 	
 	<!-- Navigation Bar-->
 		<nav class="navbar navbar-inverse navbar-fixed-top" id="my-navbar">
@@ -35,7 +35,7 @@
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse">
 
-				<a href="" class="btn btn-warning navbar-btn navbar-right">Resume</a>
+				<!--<a href="" class="btn btn-warning navbar-btn navbar-right">Resume</a>-->
 					<ul class="nav navbar-nav">
 						<li><a href="#AboutMe">About Me</a>
 						<li><a href="#Education">Education</a>
@@ -54,9 +54,9 @@
 				<h1>Hello</h1>
 				<p>hellohello</p>
 
-				<div class=btn-group"">
+				<!--<div class=btn-group"">
 					<a href="" class="btn btn-lg btn-warning">Makes Button</a>
-				</div>
+				</div>-->
 			</div><!-- end container-->
 		</div><!-- end jumbotron-->
 
@@ -67,11 +67,11 @@
 				</div>
 
 				<div class="row">
-					<div class="col-lg-8">
+					<div class="col-sm-8">
 						<h3>Hello!</h3>
 						<p>this is stuff about me</p>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-sm-4">
 						<img src="pictureofme.jpg" class="img-responsive" alt="image">
 					</div>
 				</div>
@@ -85,14 +85,14 @@
 				</div>
 
 				<div class="row">
-					<div class="col-lg-6">
+					<div class="col-md-6">
 						<blockquote>
 							<p>
 								rawr
 							</p>
 						</blockquote>						
 					</div>
-					<div class="col-lg-6">
+					<div class="col-md-6">
 						<blockquote>
 							<p>
 								rawr
@@ -110,41 +110,41 @@
 				</div>
 
 				<div class="row">
-					<div class="col-lg-8">
+					<div class="col-sm-8">
 						<h3>This is the interest</h3>
 						<p>this is stuff about that interest</p>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-sm-4">
 						<img src="imageofinterest.jpg" class="img-responsive" alt="image">
 					</div>
 				</div>
 
 				<div class="row">
-					<div class="col-lg-8">
+					<div class="col-sm-8">
 						<h3>This is the interest</h3>
 						<p>this is stuff about that interest</p>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-sm-4">
 						<img src="imageofinterest.jpg" class="img-responsive" alt="image">
 					</div>
 				</div>
 
 				<div class="row">
-					<div class="col-lg-8">
+					<div class="col-sm-8">
 						<h3>This is the interest</h3>
 						<p>this is stuff about that interest</p>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-sm-4">
 						<img src="imageofinterest.jpg" class="img-responsive" alt="image">
 					</div>
 				</div>
 
 				<div class="row">
-					<div class="col-lg-8">
+					<div class="col-sm-8">
 						<h3>This is the interest</h3>
 						<p>this is stuff about that interest</p>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-sm-4">
 						<img src="imageofinterest.jpg" class="img-responsive" alt="image">
 					</div>
 				</div>
@@ -184,15 +184,71 @@
 			</section>
 		</div><!--end of work experience-->
 
-
-		<section><!--end message-->
-			<div class="well">
-				<div class="container text-center">
-					<h3> Thank you for checking me out!</h3>
-					<p>And feel free to contact me with any opportunities!</p>
+		<div class="container"><!--Section with Contact Info-->
+			<section>
+				<div class="page-header" id="ContactInformation">
+					<h2>Contact Information</h2>
 				</div>
-			</div><!--end of well-->
-		</section>
+
+				<div class="row">
+					<div class="col-lg-4">
+							<p>Send me a message or contact me with the following information</p>
+							<address>
+								<strong>Ashish Devanapalli</strong></br>
+								30-06 Berkshire Road</br>
+								Fair Lawn, New Jersey</br>
+								07410</br>
+								P: 201 7912172
+							</address>						
+					</div>
+					<div class="col-lg-8">
+						<form action="form-horizontal">
+							<div class="form-group">
+								<label for="user-name" class="col-lg-2 control-label">Name</label>
+								<div class="col-lg-10">
+									<input type="text" class="form-control" id="user-name" placeholder="Enter your name">
+								</div>
+							</div>
+
+							<div class="form-group">
+								<label for="user-email" class="col-lg-2 control-label">Email</label>
+								<div class="col-lg-10">
+									<input type="text" class="form-control" id="user-email" placeholder="Enter your email address">
+								</div>
+							</div>
+
+							<div class="form-group">
+								<label for="user-message" class="col-lg-2 control-label">Message</label>
+								<div class="col-lg-10">
+									<textarea name="user-message" id="user-message" class="form-control" cols="20" rows="10" placeholder="Enter your message"></textarea>
+								</div>
+							</div>
+
+							<div class="form-group">
+								<div class="col-lg-10 col-lg-offset-2">
+									<button type="submit" class="btn btn-warning">Submit</button>
+								</div>	
+							</div>
+
+						</form>						
+					</div>
+				</div>
+			</section>
+		</div><!-- end container-->
+
+
+		<footer>
+			<hr><!--end message-->
+				<div class="well">
+					<div class="container text-center">
+						<h3> Thank you for checking me out!</h3>
+						<p>And feel free to contact me with any opportunities!</p>
+					</div>
+				</div><!--end of well-->
+		</footer>
+		
+
+
 
 <script src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
