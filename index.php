@@ -147,7 +147,7 @@ to do list:
 
 				<div class="row">
 					<div class="col-sm-8">
-						<h3>Medecine</h3>
+						<h3>Medicine</h3>
 						<p>I originally joined NJIT as part of a seven-year joint medcial program with St.Georges Medical School. And so I still have an interest in the human body. I have countless volunteer and intership hours in hospitals working with nurses and doctors. But now I wish to combine that interest with my new major. This is extermely possible with how much data comes out of hospitals and the current poor state in which it is handled.</p>
 					</div>
 					<div class="col-sm-4">
