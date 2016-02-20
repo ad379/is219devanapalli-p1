@@ -184,39 +184,39 @@ to do list:
 						</div>
 
 						<div class="item">
-							<img src="library.png" alt="text of the image">
+							<img src="library.PNG" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="brain.png" alt="text of the image">
+							<img src="brain.PNG" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="valley.png" alt="text of the image">
+							<img src="valley.PNG" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="ecamp.png" alt="text of the image">
+							<img src="ecamp.PNG" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="academy.png" alt="text of the image">
+							<img src="academy.PNG" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="kumon.png" alt="text of the image">
+							<img src="kumon.PNG" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="math.png" alt="text of the image">
+							<img src="math.PNG" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="karate.png" alt="text of the image">
+							<img src="karate.PNG" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="tutor.png" alt="text of the image">
+							<img src="tutor.PNG" alt="text of the image">
 						</div>
 
 
