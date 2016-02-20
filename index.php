@@ -180,7 +180,7 @@ to do list:
 					</ol>
 					<div class="carousel-inner">
 						<div class="item active">
-							<img src="ramapo.png" alt="text of the image">
+							<img src="ramapo.PNG" alt="text of the image">
 						</div>
 
 						<div class="item">
