@@ -131,7 +131,7 @@ to do list:
 						<p>I really enjoy computers and programming in general. I have always had an interest in mathematics but it was not until highschool, where I took some elective class in java and html that I found my interest in programming. I enjoy the thrill you feel when you finally get that last bug working and the entire code finally falls into place and gives you the answer or output you were looking for!</p>
 					</div>
 					<div class="col-sm-4">
-						<img src="comp.jpg" class="img-responsive" alt="image">
+						<img src="images/comp.jpg" class="img-responsive" alt="image">
 					</div>
 				</div>
 
@@ -141,7 +141,7 @@ to do list:
 						<p>I have been working with children in some form of manner since I was in middle school, whether it is tutoring or at a camp. It started with a job at KUMON, and afterschool enrichment program for k-12 kids. From there, I speced out to personal tutoring and summer camps at my highchool for prospective kids. I enjoy working with children. i pride myself on have the patience to work with a child till he understands or acheives the task at hand and for having the creativity needed to tailor a method of teaching for each child.</p>
 					</div>
 					<div class="col-sm-4">
-						<img src="teacher.jpg" class="img-responsive" alt="image">
+						<img src="images/teacher.jpg" class="img-responsive" alt="image">
 					</div>
 				</div>
 
@@ -151,7 +151,7 @@ to do list:
 						<p>I originally joined NJIT as part of a seven-year joint medcial program with St.Georges Medical School. And so I still have an interest in the human body. I have countless volunteer and intership hours in hospitals working with nurses and doctors. But now I wish to combine that interest with my new major. This is extermely possible with how much data comes out of hospitals and the current poor state in which it is handled.</p>
 					</div>
 					<div class="col-sm-4">
-						<img src="medecine.png" class="img-responsive" alt="image">
+						<img src="images/medecine.png" class="img-responsive" alt="image">
 					</div>
 				</div>
 
@@ -180,43 +180,43 @@ to do list:
 					</ol>
 					<div class="carousel-inner">
 						<div class="item active">
-							<img src="ramapo.png" alt="text of the image">
+							<img src="images/ramapo.png" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="library.png" alt="text of the image">
+							<img src="images/library.png" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="brain.png" alt="text of the image">
+							<img src="images/brain.png" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="valley.png" alt="text of the image">
+							<img src="images/valley.png" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="ecamp.png" alt="text of the image">
+							<img src="images/ecamp.png" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="academy.png" alt="text of the image">
+							<img src="images/academy.png" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="kumon.png" alt="text of the image">
+							<img src="images/kumon.png" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="math.png" alt="text of the image">
+							<img src="images/math.png" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="karate.png" alt="text of the image">
+							<img src="images/karate.png" alt="text of the image">
 						</div>
 
 						<div class="item">
-							<img src="tutor.png" alt="text of the image">
+							<img src="images/tutor.png" alt="text of the image">
 						</div>
 
 
